@@ -14,7 +14,7 @@ Introduces the **fundamentals of digital image processing**, covering essential 
 - Basic pixel manipulations
 - Understanding image formats and color models
 
-> 📓 See the HW1 notebook for hands-on exercises and example images.
+>  See the HW1 notebook for hands-on exercises and example images.
 
 ---
 
