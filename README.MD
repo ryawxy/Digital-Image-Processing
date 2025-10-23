@@ -11,10 +11,8 @@ Introduces the **fundamentals of digital image processing**, covering essential 
 
 ### Topics
 - Reading and displaying images
-- Basic pixel manipulations
 - Understanding image formats and color models
-
->  See the HW1 notebook for hands-on exercises and example images.
+- Basic pixel manipulations
 
 ---
 
@@ -24,10 +22,10 @@ Focuses on **image enhancement and spatial filtering** to improve image quality 
 
 ### Topics
 - Image enhancement techniques
-- Spatial domain filtering
 - Histogram equalization
+- Spatial domain filtering
 
-> Includes code examples and explanations on enhancing image contrast and clarity.
+
 
 ---
 
@@ -36,11 +34,10 @@ Focuses on **image enhancement and spatial filtering** to improve image quality 
 Explores **edge detection, morphology, and segmentation** — key operations in computer vision for analyzing image structures.
 
 ### Topics
-- Edge detection methods (Sobel, Canny, etc.)
+- Edge detection methods 
 - Morphological operations
 - Image segmentation
 
-> Demonstrations use classic images such as *Lena* and *Cameraman* for visual clarity.
 
 ---
 
@@ -55,7 +52,6 @@ Delves into **advanced morphological image processing** techniques, emphasizing 
 - Edge Detection — morphological gradients for edge extraction
 - Object Counting — practical example of counting coins in an image
 
-> This notebook highlights the power of morphology for **cleaning, segmenting, and analyzing** digital images.
 
 ---
 
